@@ -68,6 +68,10 @@ InferenceX currently benchmarks two models:
 | MI325X | AMD | CDNA3 | MI300X with more memory |
 | MI355X | AMD | CDNA4 | AMD's latest generation |
 
+> For detailed GPU specifications (memory, bandwidth, tensor performance,
+> interconnect) and a glossary of hardware attributes, see
+> [GPU & Benchmark Attributes Reference](GPU_AND_BENCHMARK_ATTRIBUTES.md).
+
 ### 2.3 Inference Engines (Software)
 
 | Engine | What It Does |
