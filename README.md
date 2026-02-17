@@ -24,6 +24,7 @@
 
 | Document | For | Description |
 |----------|-----|-------------|
+| [GPU and AI Primer](docs/GPU_AND_AI_PRIMER.md) | Everyone | Demystifies GPU hardware, AI training/inference, and all NVIDIA jargon used in InferenceX |
 | [Hands-On Walkthrough](docs/HANDS_ON_WALKTHROUGH.md) | Everyone | Line-by-line explanation of every command you can run locally (no GPU needed), with full interpretation of outputs |
 | [Quick Start Guide](docs/QUICKSTART.md) | Everyone | 12 hands-on use cases to get started fast |
 | [User Guide](docs/USER_GUIDE.md) | Users | Understanding and analyzing benchmark results |
@@ -133,6 +134,7 @@ InferenceX is a four-stage pipeline:
 
 | Document | For | Description |
 |----------|-----|-------------|
+| [GPU and AI Primer](docs/GPU_AND_AI_PRIMER.md) | Everyone | Demystifies GPU hardware, AI training/inference, and all NVIDIA jargon |
 | [Hands-On Walkthrough](docs/HANDS_ON_WALKTHROUGH.md) | Everyone | Line-by-line command explanation with output interpretation |
 | [Quick Start Guide](docs/QUICKSTART.md) | Everyone | 12 hands-on use cases to get started fast |
 | [User Guide](docs/USER_GUIDE.md) | Users | Understanding and analyzing benchmark results |
